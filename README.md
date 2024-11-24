@@ -2,13 +2,13 @@
 
 **HelixCore** is an innovative dashboard coded in TypeScript, currently in development and set to be open-source. With a range of exciting features on the horizon, HelixCore aims to provide a powerful and user-friendly experience for managing and visualizing data. The frontend is semi-based on Palladium, ensuring a modern and responsive design.
 
-## Features
-
-- **No data**: No data.
-
 ## Installation
 
-Currently, HelixCore is in the development phase. More information about installation and setup will be available soon.
+1. cd /var/www/pterodactyl
+
+2. php artisan cache:clear
+
+3. php artisan config:cache
 
 ## Contributing
 
