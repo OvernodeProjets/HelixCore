@@ -20,6 +20,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, please reach out to us at [ludo@overnode.fr].
+For questions or feedback, please reach out to us at [ludo@overnode.fr](ludo@overnode.fr).
 
 Stay tuned for updates as we continue to develop HelixCore!
